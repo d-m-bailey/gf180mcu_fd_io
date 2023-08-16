@@ -8,4 +8,5 @@ Warning: there may be some devices that do not exist in older pdks. Namely:
 - pfet_06v0_dss
 - diode_pd2nw_06v0.sym
 - diode_nd2ps_06v0.sym
+- cap_nmos_06v0.sym
 - *_dss devices do not include `d_sab` or `s_sab` parameters
